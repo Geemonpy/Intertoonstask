@@ -249,7 +249,7 @@ const Products = ({productItem}) => {
       <div className="container my-3 py-3">
         <div className="row">
           <div className="col-12">
-          <h2 className="display-5 text-center text-white fs-0">Latest Items</h2>
+          <h2 className="display-5 text-center text-white fs-0"></h2>
 
             <hr />
           </div>
